@@ -1,9 +1,9 @@
 {
-  "name": "http-proxy",
+  "name": "http-proxy-liran-fork",
   "version": "1.18.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/http-party/node-http-proxy.git"
+    "url": "https://github.com/LiranBri/http-party/node-http-proxy.git"
   },
   "description": "HTTP proxying for the masses",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
